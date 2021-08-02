@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angularchat-ee2e2": {
+      "hosting": {
+        "mysocialeb": [
+          "angularchat-ee2e2"
+        ]
+      }
+    }
+  }
+}
